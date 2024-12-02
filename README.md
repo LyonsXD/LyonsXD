@@ -1,37 +1,20 @@
-# Welcome to My GitHub Profile!
+<h1 align="center">Hi 👋, I'm Lyons.</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-  <svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color: #ff00ff; stop-opacity: 1" />
-        <stop offset="100%" style="stop-color: #00ffff; stop-opacity: 1" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-family="Arial, sans-serif" font-size="48" fill="url(#gradient)">
-      LYONS XD
-    </text>
-    <animateTransform 
-      attributeName="transform" 
-      type="translate" 
-      from="0 0" 
-      to="600 0" 
-      begin="0s" 
-      dur="3s" 
-      repeatCount="indefinite" />
-  </svg>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lyonsxd&label=Profile%20views&color=0e75b6&style=flat" alt="lyonsxd" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lyonsxd" alt="lyonsxd" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-## About Me
-Hi there! I'm LYONS XD, a passionate developer who loves exploring new technologies and building cool projects.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-## Skills
-- Programming: JavaScript, Python, C++
-- Web Development: HTML, CSS, React
-- Tools: Git, Docker, VS Code
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyonsxd&show_icons=true&locale=en&layout=compact" alt="lyonsxd" /></p>
 
-## Projects
-Check out my repositories and feel free to contribute!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyonsxd&show_icons=true&locale=en" alt="lyonsxd" /></p>
 
-## Connect with Me
-- [Website](https://lyonsxd.github.io/)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyonsxd&" alt="lyonsxd" /></p>
+
